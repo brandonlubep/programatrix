@@ -1,0 +1,20 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "traductor de idiomas",
+  "main": "index.js",
+  "scripts": {
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonlubep/programatrix.git"
+  },
+  "keywords": [
+    "platzom",
+    "fundamentos",
+    "javascript"
+  ],
+  "author": "Brandon beltran <brandonlubep@gmail.com>",
+  "license": "MIT"
+ }
